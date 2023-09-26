@@ -12,7 +12,7 @@ Elasticsearch is a distributed, RESTful search engine optimized for speed and re
 
 \... and more!
 
-To learn more about Elasticsearch's features and capabilities, see our
+To learn more about Elasticsearch's features and capabilities, see orss
 https://www.elastic.co/products/elasticsearch[product page].
 
 [[get-started]]
