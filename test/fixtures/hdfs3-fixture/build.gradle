@@ -9,5 +9,5 @@
 apply plugin: 'elasticsearch.java'
 
 dependencies {
-  api "org.apache.hadoop:hadoop-minicluster:3.3.1"
+  api "org.apache.hadoop:hadoop-minicluster:3.3.3"
 }
